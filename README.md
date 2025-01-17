@@ -10,13 +10,13 @@ const Tom = {
  FavoriteLanguage: PHP,
  Learning: Symfony,
  ProjectInMind:  Ecommerce,
- OpenedPullRequests: {{ PULL_REQUESTS }},
- TotalCommits: {{ COMMITS }},
- OpenedIssues: {{ ISSUES }},
- Stars: {{ STARS }},
+ OpenedPullRequests: 85,
+ TotalCommits: 4819,
+ OpenedIssues: 23,
+ Stars: 8,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 23,
+    Contributed: 2
  },
 }; // My stats as an Epic Object ✨
 ```
