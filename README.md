@@ -10,13 +10,13 @@ const Tom = {
  FavoriteLanguage: PHP,
  Learning: Symfony,
  ProjectInMind:  Ecommerce,
- OpenedPullRequests: 92,
- TotalCommits: 4874,
- OpenedIssues: 21,
- Stars: 8,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
+ TotalCommits: {{ COMMITS }},
+ OpenedIssues: {{ ISSUES }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 19,
-    Contributed: 2
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -52,7 +52,7 @@ const Tom = {
 
 <h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
-<!-- Last updated on Sun Feb 09 2025 16:19:54 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Mon Feb 10 2025 01:24:46 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
-<i>Last updated on 9th February 2025 using Samsung Smart Refrigerator</i> 🧊 
+<i>Last updated on 10th February 2025 using Samsung Smart Refrigerator</i> 🧊 
 </div>
